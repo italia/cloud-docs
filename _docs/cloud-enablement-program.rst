@@ -55,7 +55,7 @@ Unità di Controllo o Cloud Enablement Control Team
 è costituita da un team specializzato in attività di Cloud Enablement. Insieme ad AgID e il Team Digitale rappresenta la governance del progetto.
 
 |image1|
-~~~~~~~~
+
 
 Definizione delle metodologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -129,10 +129,8 @@ Processo di Delivery
 
 Le CE squads sviluppano un progetto di migrazione per ogni PA che prendono in gestione, la realizzazione dei progetti costituisce il processo di delivery.
 
-.. _section-1:
-
 |image2|
-^^^^^^^^
+
 
 Assessment iniziale
 ^^^^^^^^^^^^^^^^^^^
@@ -159,7 +157,8 @@ Retrospettiva post-migrazione
 
 Al termine della fase di esecuzione le *squads* effettuano un’analisi retrospettiva del processo di migrazione cercando di evidenziare le problematiche emerse nel progetto specifico. Le “lessons learnt” emerse in questa fase vengono presentate all’unità di controllo che le consolida in una knowledge base comune.
 
-.. _strumenti-1:
+
+
 
 Strumenti
 ~~~~~~~~~
