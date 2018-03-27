@@ -1,5 +1,5 @@
-La Trasformazione della PA aka Processi in Corso
-================================================
+La Trasformazione della PA 
+==========================
 
 Nel 2013 AgID ha effettuato `un primo censimento <http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/razionalizzazione-del-patrimonio-ict-pa/censimento-data>`__ su 990 data center della PA, 
 rilevando una forte frammentazione delle risorse e frequenti situazioni di inadeguatezza tecnologica.
