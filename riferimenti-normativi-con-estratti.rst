@@ -123,9 +123,9 @@ Si riportano di seguito i riferimenti normativi concernenti la spesa ICT.
    servizi informatici, anche se per innovazione, qualora siano in 
    contrasto con i principi generali definiti nel paragrafo 3. In 
    particolare non potranno essere sostenute spese relative alla 
-   costituzione di nuovi data center. [...]
+   costituzione di nuovi data center. [...]*
    
-   c) Per procedere ad acquisizioni di beni e servizi informatici e di 
+   *c) Per procedere ad acquisizioni di beni e servizi informatici e di 
    connettività, ai sensi del comma 512, che fa salvi “gli obblighi di 
    acquisizione centralizzata previsti per i beni e servizi dalla 
    normativa vigente”, le amministrazioni pubbliche e le società del conto 
@@ -141,9 +141,9 @@ Si riportano di seguito i riferimenti normativi concernenti la spesa ICT.
    dell’articolo 2, comma 574, della l. 244/2007); l’obbligo di ricorso a 
    strumenti di acquisto e negoziazione telematici messi a disposizione da 
    Consip o dalle centrali di committenza regionali di riferimento (di cui 
-   all’articolo 15, comma 13, lett. d), decreto .legge. 95/2012).
+   all’articolo 15, comma 13, lett. d), decreto .legge. 95/2012).*
    
-   d) Qualora le amministrazioni non siano tenute a ricorrere a specifici 
+   *d) Qualora le amministrazioni non siano tenute a ricorrere a specifici 
    strumenti di acquisto e negoziazione ai sensi delle disposizioni 
    richiamate al punto precedente, la disposizione di cui al comma 512 
    richiede di ricorrere agli strumenti di acquisto e di negoziazione 
@@ -151,9 +151,9 @@ Si riportano di seguito i riferimenti normativi concernenti la spesa ICT.
    strumenti sono ricompresi le convenzioni-quadro, i contratti-quadro e 
    gli accordi-quadro nonché il mercato elettronico della pubblica 
    amministrazione, il sistema dinamico della pubblica amministrazione e 
-   le gare su delega che aggregano la domanda di più amministrazioni.
+   le gare su delega che aggregano la domanda di più amministrazioni.*
    
-   e) Pertanto le amministrazioni e le società inserite nel conto 
+   *e) Pertanto le amministrazioni e le società inserite nel conto 
    consolidato ISTAT possono effettuare acquisti di beni e servizi 
    informatici in via autonoma solo dopo aver verificato che non siano 
    disponibili strumenti di aggregazione, attraverso la consultazione 
