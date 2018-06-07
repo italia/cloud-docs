@@ -38,10 +38,10 @@ del 2018 <https://cloud-pa.readthedocs.io/it/latest/>`_.
    Le componenti del modello del Cloud della PA
 
 Il Cloud della PA è un modello cloud fortemente *misto* che include
-infrastrutture e servizi di tipo: **Public Cloud**[1]_, l’offerta dei Cloud
-Service Provider pubblici qualificati da AgID; **Private Cloud**[2]_, le
-infrastrutture e servizi erogati dai PSN; **Community Cloud**[3]_, i servizi
-`SPC Cloud Lotto 1 <https://www.cloudspc.it>`_. Questo modello consente di
+infrastrutture e servizi di tipo: **Public Cloud** [1]_, l’offerta dei Cloud
+Service Provider pubblici qualificati da AgID; **Private Cloud** [2]_, le
+infrastrutture e servizi erogati dai PSN; **Community Cloud** [3]_, i servizi
+`SPC Cloud Lotto 1 <https://www.cloudspc.it>`__. Questo modello consente di
 soddisfare le diverse e complesse esigenze del settore pubblico.
 
 Le infrastrutture qualificate si suddividono in tre categorie:
@@ -69,7 +69,7 @@ tradizionali (generalmente basate su servizi di hosting o housing).
 
 Al fine di selezionare, nell’ambito del Cloud della PA, il servizio e la
 modalità di erogazione più rispondenti alle esigenze dell’Amministrazione è
-opportuno applicare *la preferenza* \**SaaS First** , ovvero indirizzare la
+opportuno applicare *la preferenza* **SaaS First** , ovvero indirizzare la
 propria scelta sui servizi SaaS già presenti e attivi nel Marketplace Cloud, se
 conformi alle necessità dell’amministrazione. La scelta dei servizi SaaS
 consente di beneficiare in pieno dei vantaggi offerti dal paradigma cloud e di
@@ -234,7 +234,7 @@ nell’ambito del Cloud della PA.
 
 Come precedentemente descritto, le infrastrutture qualificate ad erogare i
 servizi cloud qualificati possono essere CSP (Cloud Service Provider), `SPC
-Cloud Lotto 1 <https://www.cloudspc.it/>`_, PSN (Poli Strategici Nazionali).
+Cloud Lotto 1 <https://www.cloudspc.it/>`__, PSN (Poli Strategici Nazionali).
 
 Cloud Service Provider qualificati - Public Cloud
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
