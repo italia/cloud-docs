@@ -103,16 +103,23 @@ Questo modello consente di semplificare drasticamente la gestione dei sistemi in
 Il modello Cloud introduce dei vantaggi significativi rispetto alle tradizionali soluzioni hardware, che consentono di :
 
 -  effettuare in maniera continua gli aggiornamenti dell’infrastruttura e delle applicazioni;
+
 -  usufruire delle applicazioni da qualsiasi dispositivo in qualsiasi luogo tramite l’accesso internet;
+
 -  avere maggiore flessibilità nel provare nuovi servizi o apportare modifiche, con costi minimi;
+
 -  ridurre i rischi legati alla gestione della sicurezza (fisica e logica) delle infrastrutture IT;
+
 -  avere importanti economie nell’utilizzo del SW, in quanto è consentito pagare le risorse come servizi in base al consumo (“pay per use”), evitando investimenti iniziali nell’infrastruttura e costi legati alle licenze di utilizzo;
+
 -  ridurre i costi complessivi collegati alla location dei Data center (affitti, consumi elettrici, personale non ICT).
 
 Inoltre, i servizi Cloud sono tipicamente suddivisi in tre tipologie:
 
 -  *software-as-a-service (SaaS)*, si tratta di applicazioni software accessibili tramite Internet sfruttando diverse tipologie di dispositivi (Desktop, Mobile, etc);
+
 -  *platform-as-a-service (PaaS)*, ovvero piattaforme per sviluppare, testare e distribuire le applicazioni su Internet;
+
 -  *infrastructure-as-a-service (IaaS)*, ovvero l'infrastruttura tecnologica fisica e virtuale in grado di fornire risorse di computing, networking e storage da remoto e mediante API, senza la necessità di acquistare hardware.
 
 È possibile consultare le definizioni del modello cloud e le proprietà specifiche dei servizi `presso il NIST <https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf>`__.
@@ -181,10 +188,15 @@ Non tutti i servizi e le infrastrutture di cloud computing sono uguali. In alcun
 Il modello *Cloud della PA* consente di mitigare tale rischio, qualificando servizi e infrastrutture Cloud secondo specifici parametri di sicurezza e affidabilità idonei per le esigenze della PA, nel rispetto dei seguenti principi:
 
 -  miglioramento dei livelli di servizio, accessibilità, usabilità e sicurezza;
+
 -  interoperabilità dei servizi nell’ambito del modello Cloud della PA;
+
 -  riduzione del rischio di «vendor lock-in»;
+
 -  riqualificazione dell’offerta, ampliamento e diversificazione del mercato dei fornitori;
+
 -  resilienza, scalabilità, «reversibilità» e protezione dei dati;
+
 -  apertura del mercato alle Piccole e Medie Imprese (PMI).
 
 Il Cloud della PA si compone di infrastrutture e servizi, qualificati da AgID sulla base di un insieme minimo di requisiti, secondo il modello riportato di seguito. Inoltre, servizi e infrastrutture saranno consultabili e confrontabili mediante una piattaforma dedicata, il *Cloud Marketplace,* una volta conseguita la qualificazione AgID secondo quanto descritto nelle `circolari AgID n.2 e n.3 del 2018 <https://cloud.italia.it>`__.
@@ -198,7 +210,9 @@ Il Cloud della PA è un modello cloud fortemente *misto* che include infrastrutt
 Le infrastrutture qualificate si suddividono in tre categorie:
 
 -  Poli strategici nazionali o PSN: l’insieme delle infrastrutture IT (centralizzate o distribuite), ad alta disponibilità, di proprietà dello Stato, elette a Polo Strategico Nazionale dalla Presidenza del Consiglio dei Ministri ed in grado di erogare, in maniera continuativa, servizi cloud e hosting ad altre amministrazioni;
+
 -  Cloud Service Provider o CSP: le infrastrutture e i servizi di *Public Cloud* offerti dai cloud service provider qualificati da AgID;
+
 -  SPC Cloud: i servizi cloud infrastrutturali erogati nell’ambito del contratto quadro Consip - Cloud SPC Lotto 1.
 
 I servizi SaaS del *Cloud della PA* dovranno necessariamente essere erogati mediante una o più infrastrutture qualificate.
@@ -215,6 +229,7 @@ Nel caso in cui, invece, non fossero disponibili servizi SaaS specifici, la scel
 Diventa, quindi, cruciale individuare quale delle tre tipologie di infrastrutture qualificate scegliere, tale scelta è indirizzata da 2 fattori:
 
 -  la finalità del servizio all’utente e la tipologia di dati trattati
+
 -  le caratteristiche commerciali del servizio cloud.
 
 Non si tratta di una scelta tecnologica, in quanto le infrastrutture qualificate sono tutte tecnicamente omogenee come previsto dal Piano Triennale e in particolare dalla qualificazione delle infrastrutture.
@@ -245,12 +260,19 @@ Servizi SaaS
 La qualificazione dei servizi SaaS nell’ambito del Cloud della PA assicura il rispetto di alcuni requisiti, tra cui:
 
 -  la **sicurezza** applicativa, in termini di gestione dei dati, sicurezza di rete, aggiornamenti delle vulnerabilità note;
+
 -  la disponibilità di un adeguato **supporto tecnico** per il cliente (multicanale, con prefissati e garantiti orari di reperibilità);
+
 -  la **trasparenza** e la **disponibilità di informazioni** dettagliate e aggiornate sulle modalità di erogazione del servizio e di esportazione dei dati;
+
 -  la **disponibilità di incident report**, statistiche e strumenti di **monitoraggio** delle risorse utilizzate, dei costi e dei livelli di servizio;
+
 -  la **qualità del servizio**, con un insieme minimo di livelli di servizio garantiti obbligatori (ad es. disponibilità del servizio, tempistiche di risposta dell’assistenza tecnica), più ulteriori livelli di servizio proposti dal fornitore tipicamente riguardanti la larghezza di banda, i tempi di ripristino del servizio ed altre metriche relative alla capacità di elaborazione;
+
 -  la **protezione dei dati** **e** la **portabilità** in tutte le fasi di avanzamento della fornitura (attivazione del servizio, erogazione del servizio e disattivazione del servizio), con procedure chiare e documentate e tutte le necessarie garanzie per l’utilizzatore del servizio;
+
 -  l’\ **interoperabilità** mediante opportune *Application Programming Interface* (API) che dovranno rifarsi alle migliori pratiche di gestione (API management), prevedendo in particolare la tracciabilità delle versioni disponibili, la tracciabilità delle richieste ricevute ed evase, la documentazione degli endpoint SOAP e/o REST disponibili e delle rispettive modalità di invocazione.
+
 -  ridurre il rischio di dipendenza esclusiva dal fornitore (**lock in**), garantendo in tal modo alle PA l’esportabilità dei propri dati in un formato interoperabile verso un’altra piattaforma.
 
 Inoltre, la qualificazione rafforza la richiesta di protezione dei dati, dando rilievo alla conformità con le prescrizioni previste dalle norme (nazionali ed europee) in materia di sicurezza informatica e riservatezza dei dati.
@@ -263,8 +285,11 @@ I servizi Cloud di tipo IaaS e PaaS consentono di disporre rispettivamente di ri
 La **qualificazione dei servizi IaaS e PaaS** pone particolare attenzione ai seguenti aspetti:
 
 -  la **gestione della sicurezza** estesa a tutti gli aspetti che riguardano sia l’infrastruttura che i servizi;
+
 -  la **gestione delle configurazioni** e la **gestione dei cambiamenti**, aspetti fondamentali per l’amministrazione di infrastrutture IT complesse;
+
 -  la **gestione degli incidenti** e il *recovery* dell’infrastruttura in seguito ad eventi critici;
+
 -  l’\ **interoperabilità** con altri servizi e altre infrastrutture Cloud dello stesso tipo, mediante l'utilizzo di standard aperti (ad es. Open Virtualization Format) ed opportune Application Programming Interface (API).
 
 Per assicurare che tutte queste problematiche vengano gestite correttamente, la qualificazione richiede che il fornitore e i servizi sottoposti a qualificazione siano conformi alle buone pratiche previste dai più importanti e diffusi standard del settore (es. norme UNI, ISO/IEC, ecc.), oltre che, in alcuni casi, a certificazioni specifiche (es. ISO/IEC 27001) .
@@ -275,7 +300,9 @@ La qualificazione delle Infrastrutture
 Le infrastrutture IT fisiche e virtuali destinate all’utilizzo da parte della pubblica amministrazione devono dimostrare di possedere determinati requisiti:
 
 -  **organizzativi** - procedure certificate per l’erogazione dei servizi, la gestione di risorse e processi, il supporto agli utenti , la gestione dei cambiamenti;
+
 -  **di sicurezza e affidabilità** - definizione dei livelli di servizio, privacy, sicurezza e protezione dei dati
+
 -  **di performance e interoperabilità** - garanzie sulle performance delle infrastrutture e sulla capacità di interoperare con altre infrastrutture analoghe mediante standard aperti, la possibilità di esportare i dati dei servizi erogati in formati aperti.
 
 La verifica del possesso di tali requisiti costituisce una parte fondante del processo di qualificazione delle infrastrutture IT che possono operare nell’ambito del Cloud della PA.
@@ -290,7 +317,9 @@ I Cloud Service Provider qualificati da AgID possono erogare servizi di tipo *Pu
 La procedura di qualificazione delle **infrastrutture dei CSP** pone particolare attenzione ai seguenti aspetti:
 
 -  la **gestione della sicurezza** estesa a tutti gli ambiti che riguardano l’infrastruttura dei servizi cloud (ISO/IEC 27001 estesa ai controlli ISO/IEC 27017 e ISO/IEC 27018);
+
 -  la gestione delle **configurazioni** e dei **cambiamenti** *(change management)*;
+
 -  la **gestione degli incidenti** e il *recovery* dell’infrastruttura in seguito ad eventi critici;
 
 Per assicurare che tutte queste problematiche vengano gestite correttamente, la qualificazione richiede che vengano adottate dal fornitore tutte le buone pratiche previste dai più importanti e diffusi standard del settore (es. ISO/IEC 27002).
@@ -330,7 +359,9 @@ In questo contesto AgID e Team Digitale hanno elaborato un piano di abilitazione
 Nella definizione del **piano di abilitazione al Cloud** **della PA** sono stati individuati tre elementi principali che caratterizzano la strategia di questo percorso di trasformazione:
 
 -  *Il principio Cloud First*: per la definizione di nuovi progetti e per la progettazione dei nuovi servizi nell’ambito di nuove iniziative da avviare da parte della PA in coerenza con il modello Cloud della PA;
+
 -  *La strategia di Cloud Enablement*: per la migrazione delle infrastrutture e delle applicazioni esistenti verso il modello Cloud della PA;
+
 -  *Centri di competenza*: per il consolidamento e potenziamento delle competenze mediante la creazione di Centri di Competenze (Soggetti Aggregatori) - la creazione di una comunità allargata di tecnici, esperti e managers dell’IT per discutere, proporre standard e regolamenti dei servizi digitali, condividere informazioni, soluzioni e competenze utili a mantenere, aggiornare e aumentare l’affidabilità dei sistemi, automatizzandone le procedure.
 
 header added by pandoc
@@ -355,6 +386,7 @@ La strategia di Cloud Enablement
 AgID e il Team per la Trasformazione Digitale hanno definito il modello strategico evolutivo per la migrazione del patrimonio IT esistente verso il Cloud della PA mediante due componenti principali:
 
 1. **il programma di Cloud enablement nazionale**, ovvero l’insieme dei progetti specifici che consentiranno alle PA di migrare le applicazioni in ambiente cloud;
+
 2. **l’ambiente (cd. framework)** **di lavoro del Cloud Enablement** costituito dall’insieme di risorse, strategie operative, metodologie e strumenti necessari per attuare il *Cloud Enablement Program* della PA.
 
 |image1|
@@ -374,9 +406,13 @@ Il *framework di lavoro* del *Cloud Enablement della PA* è costituito da due el
 Le principali attività dell’\ **unità di controllo** sono:
 
 1. **Definizione delle metodologie:** l’unità di controllo definisce e aggiorna le metodologie adottate nell’ambito del *framework* lavoro, in particolare per quanto riguarda il monitoraggio, *l’assessment*, le modalità di consegna e il controllo della qualità.
+
 2. **Sviluppo e mantenimento degli strumenti**: l’unità di controllo è responsabile per la gestione degli strumenti di lavoro nell’ambito del *Framework* di lavoro, si preoccupa di sviluppare, selezionare, mantenere ed aggiornare gli strumenti di lavoro; presta inoltre supporto alle unità di esecuzione affinché gli strumenti vengano utilizzati correttamente.
+
 3. **Program Management** l’unità di controllo è responsabile della gestione del programma di *Cloud Enablement*, del coordinamento dei progetti e del coordinamento delle unità di esecuzione sul territorio. L’unità di controllo aggiorna il programma di *Cloud Enablement* tenendo in considerazione il *feedback* proveniente dalle unità di esecuzione.
+
 4. **Controllo della qualità** l’unità di controllo è anche responsabile di verificare la qualità delle consegne (la realizzazione di un progetto di *Cloud Enablement*); al termine di ogni progetto di migrazione dovrà verificare mediante opportuni strumenti (survey, design docs, test, etc) se quanto realizzato risponde ai parametri di qualità previsti dalla metodologia adottata.
+
 5. **Monitoraggio** l’unità di controllo si preoccupa infine di monitorare l’intero programma in termini di risultati attesi (*deliverables*) e parametri *(KPI)*; a tale scopo, svilupperà un’infrastruttura di monitoraggio ovvero un’applicazione che da un lato, abilita le PA e le Unità di Esecuzione ad attivare e monitorare il singolo progetto di migrazione, dall’altro, fornisce una visione complessiva dello stato di avanzamento di tutti i progetti di migrazione in atto.
 
 In questo modello **le unità di esecuzione** sono i soggetti responsabili della progettazione e dell’esecuzione di uno specifico progetto di migrazione cloud. Tali unità sono responsabili per la consegna (*delivery)*, svolgono consulenza sul campo, progettando e implementando, insieme alle PA e/o ai centri di competenze, il percorso di migrazione dei servizi IT.
@@ -388,11 +424,17 @@ In questo modello **le unità di esecuzione** sono i soggetti responsabili della
 Le principali attività dell’\ **unità di esecuzione** sono:
 
 1. **Assessment iniziale:** *assessment* infrastrutturale e delle applicazioni utilizzate dalla PA, prestando particolare attenzione ad individuare la criticità di ogni applicazione ed eventuali interdipendenze. Al termine di questa fase iniziale, si ottiene un catalogo delle infrastrutture da dismettere e delle applicazioni da migrare, congiuntamente ad una analisi complessiva dove si evidenziano possibili criticità nella fase di migrazione.
+
 2. **Progettazione del processo di migrazione:** progettazione congiunta alle PA del piano di migrazione individuando le architetture, le strategie di migrazione per le diverse applicazioni, le soluzioni cloud ed infine i tempi di esecuzione. Questa fase produce un piano di lavoro dettagliato che sarà messo in atto nella fase successiva. Il *know how* prodotto durante la progettazione deve essere consolidato dalle unità di esecuzione.
+
 3. **Esecuzione della migrazione:** L’esecuzione della migrazione è la parte operativa di tutto il processo. Mediante le metodologie definite dalle unità di esecuzione, con il supporto dell’unità di controllo, viene eseguito quanto descritto nel piano di migrazione frutto della precedente fase. Viene stabilito un centro di operativo di comando e controllo della migrazione in cui devono essere presenti anche componenti della PA coinvolta. Al termine di questa fase la PA dovrebbe poter disporre dei nuovi servizi IT in ambiente Cloud. Questa fase è iterativa, dovrebbe svolgersi per ogni applicazione, in modo che si possa verificare il corretto funzionamento dell’applicazione una volta migrata.
+
 4. **Revisione della sicurezza:** Le unità di esecuzione effettuano la revisione della sicurezza applicativa e dell'infrastruttura, indicando le criticità per ogni ambito avvalendosi di soggetti terzi per una migliore e più indipendente analisi del rischio. La revisione prevede l’applicazione delle misure minime di sicurezza ICT per le pubbliche amministrazioni, emanate da AgID. Nell’ambito della *web application security*, è necessario applicare i controlli legati alle vulnerabilità più comuni, menzionate in dettaglio nella classifica TOP 10 del progetto OWASP. La revisione di sicurezza deve essere eseguita sempre prima di considerare conclusa la fase di esecuzione, e viene effettuata in maniera iterativa ogni qual volta il ciclo di esecuzione introduce un nuovo cambiamento.
+
 5. **Retrospettiva post-migrazione e supporto:** Al termine della fase di esecuzione, le *unità di controllo* effettuano un’analisi retrospettiva del processo di migrazione cercando di evidenziare le problematiche emerse nelle attività di progettazione specifiche. Le “\ *lessons learnt*\ ”, emerse in questa fase, vengono presentate all’unità di controllo che le consolida in una knowledge base comune.
+
 6. **Formazione:** formazione ai referenti dell’Amministrazione sui servizi Cloud (IaaS, PaaS, SaaS) e sul loro utilizzo attraverso sessioni di formazione specialistica sulle tematiche del Cloud.
+
 7. **Project Management:** Le unità di esecuzione sviluppano e coordinano l’esecuzione del progetto di *Cloud Enablement* per le Amministrazioni, utilizzando gli strumenti forniti dall’Unità di Controllo e le risorse cloud acquisite dalle stesse amministrazioni. Le unità di esecuzione insieme alle amministrazioni sono responsabili della gestione e dell’esecuzione del progetto.
 
 |image4|
@@ -470,16 +512,20 @@ Si riportano i riferimenti normativi concernenti la spesa ed il cloud
 Si riportano i riferimenti normativi concernenti la spesa:
 
 -  `Legge del 28 dicembre 2015, n. 208 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208>`__ *“Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilità 2016)” (15G00222) (GU Serie Generale n.302 del 30-12-2015 - Suppl. Ordinario n. 70);*
+
 -  **Circolare del Ministero dell’Economie e delle Finanze n. 16 del 17 maggio 2016** “\ *Assestamento del bilancio di previsione e Budget rivisto per l’anno finanziario 2016”;*
--  **Circolare dell’Agenzia per l’Italia Digitale n. 02 del 24 giugno 2016,** *“Modalita' di acquisizione di beni e servizi ICT nelle more della definizione del «Piano triennale per l'informatica nella pubblica amministrazione» previsto dalle disposizioni di cui all'*\ `art. 1, comma 513 e seguenti della legge 28 dicembre 2015, n. 208 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208~art1-com513>`__\ *(Legge di stabilità' 2016).* *(16A04998) (GU n.156 del 6-7-2016).*
+
+-  **Circolare dell’Agenzia per l’Italia Digitale n. 02 del 24 giugno 2016,** *“Modalita' di acquisizione di beni e servizi ICT nelle more della definizione del «Piano triennale per l'informatica nella pubblica amministrazione» previsto dalle disposizioni di cui all'\ *\ `art. 1, comma 513 e seguenti della legge 28 dicembre 2015, n. 208 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208~art1-com513>`__\ *(Legge di stabilità' 2016).* *(16A04998) (GU n.156 del 6-7-2016).*
+
 -  `DPCM del 31 maggio 2017 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio.ministri:decreto:2017-05-31>`__ “\ *Approvazione del Piano triennale per l'informatica 2017-2019” (17A04832) (GU Serie Generale n.164 del 15-07-2017);*
+
 -  **Circolare dell’Agenzia per l’Italia Digitale n. 05 del 30 novembre 2017** *“Censimento del Patrimonio ICT delle Amministrazioni e qualificazione dei Poli Strategici Nazionali”*
 
-`Legge n.208/2015 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015;208>`__\ **Comma 512 dell’art.1** "*al fine di garantire l'ottimizzazione e la razionalizzazione degli acquisti di beni e servizi informatici e di connettività, fermi restando gli obblighi di acquisizione centralizzata previsti per i beni e servizi dalla normativa vigente, le amministrazioni pubbliche e le società inserite nel conto economico consolidato della pubblica amministrazione, come individuate dall'Istituto nazionale di statistica (ISTAT) ai sensi dell'*\ `articolo 1 della legge 31 dicembre 2009, n. 196 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art1>`__\ *provvedono ai propri approvvigionamenti esclusivamente tramite Consip SpA od i soggetti aggregatori, ivi comprese le centrali di committenza regionali, per i beni e i servizi disponibili presso gli stessi soggetti [...]"*.
+`Legge n.208/2015 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015;208>`__\ **Comma 512 dell’art.1** "*al fine di garantire l'ottimizzazione e la razionalizzazione degli acquisti di beni e servizi informatici e di connettività, fermi restando gli obblighi di acquisizione centralizzata previsti per i beni e servizi dalla normativa vigente, le amministrazioni pubbliche e le società inserite nel conto economico consolidato della pubblica amministrazione, come individuate dall'Istituto nazionale di statistica (ISTAT) ai sensi dell'\ *\ `articolo 1 della legge 31 dicembre 2009, n. 196 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art1>`__\ *provvedono ai propri approvvigionamenti esclusivamente tramite Consip SpA od i soggetti aggregatori, ivi comprese le centrali di committenza regionali, per i beni e i servizi disponibili presso gli stessi soggetti [...]"*.
 
 `Legge n.208/2015 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015;208>`__\ **Comma 514 dell’art.1** *“Ai fini di cui al comma 512, Consip SpA o il soggetto aggregatore interessato sentita l'Agid per l'acquisizione dei beni e servizi strategici indicati nel Piano triennale per l'informatica nella pubblica amministrazione di cui al comma 513, programma gli acquisti di beni e servizi informatici e di connettività, in coerenza con la domanda aggregata di cui al predetto Piano. Agid, Consip SpA e i soggetti aggregatori, sulla base di analisi delle informazioni in loro possesso relative ai contratti di acquisto di beni e servizi in materia informatica, propongono alle amministrazioni e alle società di cui al comma 512 iniziative e misure, anche organizzative e di processo, volte al contenimento della spesa. Consip SpA e gli altri soggetti aggregatori promuovono l'aggregazione della domanda funzionale all'utilizzo degli strumenti messi a disposizione delle pubbliche amministrazioni su base nazionale, regionale o comune a più amministrazioni.”*
 
-`Legge n.208/2015 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015;208>`__\ **Comma 515 dell’art.1** *“La procedura di cui ai commi 512 e 514 ha un obiettivo di risparmio di spesa annuale, da raggiungere alla fine del triennio 2016-2018, pari al 50 per cento della spesa annuale media per la gestione corrente del solo settore informatico, relativa al triennio 2013-2015, al netto dei canoni per servizi di connettività e della spesa effettuata tramite Consip SpA o i soggetti aggregatori documentata nel Piano triennale di cui al comma 513, nonché tramite la società di cui all'*\ `articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112~art83-com15>`__\ *, convertito, con modificazioni, dalla*\ `legge 6 agosto 2008, n. 133 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133>`__\ *. Sono esclusi dal predetto obiettivo di risparmio gli enti disciplinati dalla*\ `legge 8 marzo 1989, n. 88 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;88>`__\ *, nonché, per le prestazioni e i servizi erogati alle amministrazioni committenti, la società di cui all'*\ `articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112~art83-com15>`__\ *, convertito, con modificazioni, dalla*\ `legge 6 agosto 2008, n. 133 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133>`__\ *, la società di cui all'*\ `articolo 10, comma 12, della legge 8 maggio 1998, n. 146 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-05-08;146~art10-com12>`__\ *, e la Consip SpA, nonché l'amministrazione della giustizia in relazione alle spese di investimento necessarie al completamento dell'informatizzazione del processo civile e penale negli uffici giudiziari. I risparmi derivanti dall'attuazione del presente comma sono utilizzati dalle medesime amministrazioni prioritariamente per investimenti in materia di innovazione tecnologica.*
+`Legge n.208/2015 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015;208>`__\ **Comma 515 dell’art.1** *“La procedura di cui ai commi 512 e 514 ha un obiettivo di risparmio di spesa annuale, da raggiungere alla fine del triennio 2016-2018, pari al 50 per cento della spesa annuale media per la gestione corrente del solo settore informatico, relativa al triennio 2013-2015, al netto dei canoni per servizi di connettività e della spesa effettuata tramite Consip SpA o i soggetti aggregatori documentata nel Piano triennale di cui al comma 513, nonché tramite la società di cui all'\ *\ `articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112~art83-com15>`__\ *, convertito, con modificazioni, dalla*\ `legge 6 agosto 2008, n. 133 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133>`__\ *. Sono esclusi dal predetto obiettivo di risparmio gli enti disciplinati dalla*\ `legge 8 marzo 1989, n. 88 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-08;88>`__\ *, nonché, per le prestazioni e i servizi erogati alle amministrazioni committenti, la società di cui all'\ *\ `articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112~art83-com15>`__\ *, convertito, con modificazioni, dalla*\ `legge 6 agosto 2008, n. 133 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133>`__\ *, la società di cui all'\ *\ `articolo 10, comma 12, della legge 8 maggio 1998, n. 146 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-05-08;146~art10-com12>`__\ *, e la Consip SpA, nonché l'amministrazione della giustizia in relazione alle spese di investimento necessarie al completamento dell'informatizzazione del processo civile e penale negli uffici giudiziari. I risparmi derivanti dall'attuazione del presente comma sono utilizzati dalle medesime amministrazioni prioritariamente per investimenti in materia di innovazione tecnologica.*
 
 `Legge n.208/2015 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015;208>`__\ **Comma 516 dell’art.1.** *Le amministrazioni e le società di cui al comma 512 possono procedere ad approvvigionamenti al di fuori delle modalità di cui ai commi 512 e 514 esclusivamente a seguito di apposita autorizzazione motivata dell'organo di vertice amministrativo, qualora il bene o il servizio non sia disponibile o idoneo al soddisfacimento dello specifico fabbisogno dell'amministrazione ovvero in casi di necessità ed urgenza comunque funzionali ad assicurare la continuità della gestione amministrativa. Gli approvvigionamenti effettuati ai sensi del presente comma sono comunicati all'Autorità nazionale anticorruzione e all'Agid.*
 
@@ -498,7 +544,9 @@ Si riportano i riferimenti normativi concernenti la spesa:
 *Si specifica altresì che, ai sensi della Circolare AgID 24 giugno 2016, n. 2, come richiamata dal Piano Triennale (cfr. Paragrafo 3.1.3. Linee di azione- azione 1), in materia di spesa le PA non possono effettuare spese o investimenti in materia di Data center, ma – previa approvazione di AgID – possono procedere agli adeguamenti dei propri Data center esclusivamente al fine di:*
 
 -  *evitare problemi di interruzione di pubblico servizio (inclusi gli interventi necessari a garantire la sicurezza dei dati e dei sistemi, in applicazione delle regole AgID Basic Security Controls);*
+
 -  *anticipare processi di dismissione dei propri Data center per migrare al Cloud della PA;*
+
 -  *consolidare i propri servizi sui Data center di altre PA per ottenere economie di spesa.*
 
 *[....] Sono esclusi dalla richiesta di approvazione gli adeguamenti che prevedono acquisti nei seguenti ambiti: progetti di ricerca a titolarità di istituzioni universitarie e/o enti di ricerca; sistemi a supporto della diagnostica clinica.*
@@ -589,6 +637,7 @@ La qualificazione ha durata pari a 24 mesi a decorrere dalla data di iscrizione 
 AgID revoca la qualificazione nel caso di:
 
 -  perdita di almeno uno dei requisiti di cui all'Allegato A della Circolare AgID 2 del 9 aprile;
+
 -  riscontro da parte dei competenti organi di violazioni di norme relative all’attività oggetto di qualificazione.
 
 **In caso di revoca, il CSP può presentare una nuova richiesta di qualificazione all’Agid?**
@@ -619,7 +668,9 @@ Nei prossimi giorni sarà pubblicata la modalità per accedere alla piattaforma 
 Nel caso di:
 
 -  perdita del criterio di ammissibilità. Ovvero quando l’infrastruttura che ospita il servizio SaaS non è più qualificata;
+
 -  perdita di almeno uno dei requisiti di cui all'Allegato A della Circolare AgID 3 del 9 aprile;
+
 -  riscontro da parte dei competenti organi di violazioni di norme relative all’attività oggetto di qualificazione.
 
 **Quali requisiti organizzativi deve avere un fornitore SaaS per ottenere la qualificazione di Agid?**
@@ -692,13 +743,8 @@ https://cloud-pa.readthedocs.io/it/latest/circolari/SaaS/allegato_docs/interoper
 
    </div>
 
-.. toctree::
-  :maxdepth: 2
-  :caption: Indice dei contenuti
-
 .. |image0| image:: ./media/image7.png
 .. |image1| image:: ./media/image10.png
 .. |image2| image:: ./media/image4.png
 .. |image3| image:: ./media/image9.png
 .. |image4| image:: ./media/image8.png
-
