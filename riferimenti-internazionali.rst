@@ -98,9 +98,9 @@ Strategia cloud negli USA
 Per quanto riguarda altri scenari internazionali merita una citazione
 l’esperienza statunitense (**US Department of Interior**).
 
-   *The Cloud First Strategy plays a pivotal role in helping the Federal
+   *"The Cloud First Strategy plays a pivotal role in helping the Federal
    Government close the productivity gap between the public and private
-   sectors.*
+   sectors."*
 
 `The Cloud First Strategy
 <https://www.dhs.gov/sites/default/files/publications/digital-strategy/federal-cloud-computing-strategy.pdf>`_,
