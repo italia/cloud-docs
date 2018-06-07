@@ -696,9 +696,9 @@ https://cloud-pa.readthedocs.io/it/latest/circolari/SaaS/allegato_docs/interoper
   :maxdepth: 2
   :caption: Indice dei contenuti
 
-.. |image0| image:: ./media/image7.png
-.. |image1| image:: ./media/image10.png
-.. |image2| image:: ./media/image4.png
-.. |image3| image:: ./media/image9.png
-.. |image4| image:: ./media/image8.png
+.. |image0| image:: ./_docs/media/image7.png
+.. |image1| image:: ./_docs/media/image10.png
+.. |image2| image:: ./_docs/media/image4.png
+.. |image3| image:: ./_docs/media/image9.png
+.. |image4| image:: ./_docs/media/image8.png
 
