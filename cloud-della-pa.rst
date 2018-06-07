@@ -303,3 +303,20 @@ tutte le informazioni, le dichiarazioni e la documentazione prevista.
 
 È in corso di sviluppo la versione alfa della piattaforma che, una volta
 rilasciata, sarà accessibile tramite cloud.italia.it/marketplace.
+
+.. rubric:: Note
+
+.. [1] L’infrastruttura cloud è predisposta per fornire servizi cloud a
+   molteplici tipologie di clienti (es. società private, enti pubblici,
+   ecc.).
+
+.. [2] L’infrastruttura cloud è predisposta per fornire servizi cloud ad 
+   uso esclusivo di una singola organizzazione (in questo caso la PA). 
+   L’infrastruttura deve essere di proprietà e può essere gestita 
+   dall’organizzazione stessa oppure da terze parti.
+
+.. [3] L’infrastruttura cloud è predisposta per fornire servizi cloud ad 
+   una specifica comunità di organizzazioni che hanno requisiti e 
+   obiettivi condivisi. L’infrastruttura può essere di proprietà, gestita 
+   dall'organizzazione stessa oppure da terze parti (in questo caso da un 
+   Raggruppamento Temporaneo di Imprese).
