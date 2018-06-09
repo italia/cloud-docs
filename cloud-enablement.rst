@@ -88,7 +88,7 @@ Cloud della PA mediante due componenti principali:
    servizi 
 
 
-La figura 3 riassume i processi e l’uso delle risorse del framework utilizzate
+La figura 4.2 riassume i processi e l’uso delle risorse del framework utilizzate
 nell’ambito del programma di *Cloud Enablement*.
 
 Il framework di lavoro del Cloud Enablement della PA è costituito da due
