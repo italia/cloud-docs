@@ -104,7 +104,8 @@ esecuzione**.
 
 L’unità di controllo ha il compito di aggiornare, gestire e monitorare il
 framework di lavoro e il programma di *Cloud Enablement*. Detta unità è costituita da un team
-specializzato in attività di abilitazione al cloud (migrazioni di applicazioni, data center, etc.) che, insieme ad AgID, al Team
+specializzato in attività di abilitazione al cloud (supporto specialistico 
+nella migrazione di applicazioni, data center, etc.) che, insieme ad AgID, al Team
 Digitale e ai centri di competenze, rappresenta la governance dell’intero progetto. 
 
 Le principali attività dell’**unità di controllo** sono:
