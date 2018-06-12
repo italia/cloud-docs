@@ -18,7 +18,7 @@ e servizi cloud. Nell'ottica del consolidamento e della razionalizzazione, tale
 attività riorganizza i processi IT in ambienti di cloud pubblico, privato o
 ibrido.
 
-Nella definizione del **piano di abilitazione al Cloud della PA** sono stati
+Nella definizione del **programma di abilitazione al Cloud della PA** sono stati
 individuati tre elementi principali che caratterizzano la strategia di questo
 percorso di trasformazione:
 
