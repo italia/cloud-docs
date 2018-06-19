@@ -103,6 +103,19 @@ sarà cura del Governo e delle Regioni valutare e disporre quali servizi
 considerati asset strategici nazionali dovranno essere erogati per mezzo degli
 stessi.
 
+SaaS e interoperabilità
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Quando i servizi SaaS sono erogati da una PA tramite API conformi alle 
+Linee Guida di Interoperabilità, si hanno dei vantaggi 
+in termini di uniformità dei modelli di dato e del rispetto delle indicazioni 
+sulla gestione della disponibilità del servizio.
+In questo caso l'interoperabilità dell'erogatore SaaS "contagia" 
+l'implementazione del fruitore, incentivando la creazione di
+nuovi servizi conformi (eg. quando le API vengono usate per creare a loro volta nuovi servizi).
+Per innescare questo circolo virtuoso è fondamentale che tutte 
+le API della PA si adeguino alle Linee Guida di Interoperabilità.
+
 Il Marketplace delle infrastrutture e dei servizi cloud
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
