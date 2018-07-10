@@ -164,8 +164,7 @@ qualificazione su cloud.italia.it in apposita sezione.
 
 Nel caso di:
 
-- perdita del criterio di ammissibilità. Ovvero quando l’infrastruttura  che
-- ospita il servizio SaaS non è più qualificata;
+- perdita del criterio di ammissibilità. Ovvero quando l’infrastruttura  che ospita il servizio SaaS non è più qualificata;
 
 - perdita di almeno uno dei requisiti di cui all’Allegato A della  Circolare
 - AgID 3 del 9 aprile;
