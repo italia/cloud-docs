@@ -302,7 +302,7 @@ servizi cloud, che intende conseguire la qualificazione CSP o SaaS, trasmette
 tutte le informazioni, le dichiarazioni e la documentazione prevista.
 
 È in corso di sviluppo la versione alfa della piattaforma che, una volta
-rilasciata, sarà accessibile tramite cloud.italia.it/marketplace.
+rilasciata, sarà accessibile tramite cloud.italia.it/marketplace. (è una scelta che dia pagina non ancora attiva?)
 
 .. rubric:: Note
 
