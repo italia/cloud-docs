@@ -118,8 +118,7 @@ al Marketplace Cloud, salvo i casi di revoca previsti.
 
 AgID revoca la qualificazione nel caso di:
 
-- perdita di almeno uno dei requisiti di cui all'Allegato A della  Circolare
-- AgID 2 del 9 aprile;
+- perdita di almeno uno dei requisiti di cui all'Allegato A della  Circolare AgID 2 del 9 aprile;
 
 - riscontro da parte dei competenti organi di violazioni di norme relative
 - all’attività oggetto di qualificazione.
