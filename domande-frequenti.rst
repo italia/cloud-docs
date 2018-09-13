@@ -139,8 +139,13 @@ questione. Il fornitore Cloud deve rendere noti i paesi in cui sono dislocati i
 data center tramite i quali verrà erogato anche parzialmente il servizio e/o
 all’interno dei quali transiteranno anche temporaneamente i dati.
 
+**Una pubblica amministrazione può usare prodotti IaaS o PaaS  quali: Google Cloud, Azure, ecc. ?**
+Un'amministrazione può accedere liberamente ad un qualunque servizio IaaS e/o PaaS erogato da soggetti pubblici o privati (fermo restando la compliance con la normativa vigente, come per esempio il GDPR ).
+A partire dal 20 Novembre 2018 le amministrazioni potranno acquisire esclusivamente servizi Cloud IaaS e PaaS erogati da Cloud Service Provider qualificati secondo quanto disposto  da AgID nella circolare `N. 2 del 9 aprile 2018 <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/CSP/circolare_qualificazione_CSP_v1.2.html>`_, tale procedura consentirà ai fornitori di servizi di certificare i servizi stessi per l'uso nella PA.
+
 Circolare qualificazione dei servizi SaaS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Chi può fornire servizi Cloud di tipo Software as a Service (SaaS) alla PA?**
 
@@ -200,3 +205,7 @@ deve avere per ottenere la qualificazione?**
 I requisiti di interoperabilità e portabilità sono pubblicati all’interno
 dell’`Allegato A della Circolare AgID n. 3 del 9 aprile
 <https://cloud-pa.readthedocs.io/it/latest/circolari/SaaS/allegato_docs/interoperabilita-portabilita.html>`_.
+
+**Una pubblica amministrazione può usare prodotti SaaS  quali: Google Docs, Trello, Github, ecc. ?**
+Un'amministrazione può accedere liberamente ad un qualunque servizio SaaS (fermo restando la compliance con la normativa vigente, come per esempio il GDPR).
+A partire dal 20 Novembre 2018 le amministrazioni potranno acquisire esclusivamente servizi Cloud SaaS qualificati secondo quanto disposto  da AgID nella circolare `N. 3 del 9 aprile 2018 <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/SaaS/circolare_qualificazione_SaaS_v_4.12.27.html>`_, tale procedura consentirà ai fornitori di servizi di certificare i servizi stessi per l'uso nella PA.
