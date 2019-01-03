@@ -99,7 +99,7 @@ qualità e prezzo offerte dai fornitori CSP o SPC, nel rispetto della normativa
 vigente in ambito di acquisizione di beni e servizi.
 
 Nel caso dei PSN, vista la rilevanza e i costi correlati di tali infrastrutture
-sarà cura del Governo e delle Regioni valutare e disporre quali servizi
+sarà cura del Governo valutare e disporre quali servizi
 considerati asset strategici nazionali dovranno essere erogati per mezzo degli
 stessi.
 
