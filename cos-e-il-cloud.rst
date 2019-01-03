@@ -42,4 +42,4 @@ Inoltre, i servizi cloud sono tipicamente suddivisi in tre tipologie:
 
 È possibile consultare le definizioni del modello cloud e le proprietà
 specifiche dei servizi `presso il NIST
-<https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf>`_.
+<https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf>`_. (broken link)
