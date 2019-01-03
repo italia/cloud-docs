@@ -84,8 +84,8 @@ Marketplace.
 Diventa, quindi, cruciale individuare quale delle tre tipologie di
 infrastrutture qualificate scegliere, tale scelta è indirizzata da 2 fattori:
 
-- la finalità del servizio all’utente e la tipologia di dati trattati le
-- caratteristiche commerciali del servizio cloud.
+- la finalità del servizio all’utente e la tipologia di dati trattati 
+- le caratteristiche commerciali del servizio cloud.
 
 Non si tratta di una scelta tecnologica, in quanto le infrastrutture qualificate
 sono tutte tecnicamente omogenee come previsto dal Piano Triennale e in
