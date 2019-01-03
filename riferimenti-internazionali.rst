@@ -103,7 +103,7 @@ l’esperienza statunitense (**US Department of Interior**).
    sectors."*
 
 `The Cloud First Strategy
-<https://www.dhs.gov/sites/default/files/publications/digital-strategy/federal-cloud-computing-strategy.pdf>`_,
+<https://www.dhs.gov/sites/default/files/publications/digital-strategy/federal-cloud-computing-strategy.pdf>`_, (broken link)
 su iniziativa della stessa Casa Bianca, è stata avviata fin dal 2011. È un
 insieme di politiche organizzative e linee guida tecnologiche definite per
 accelerare la crescita del cloud, considerato come la soluzione più efficace per
