@@ -215,4 +215,4 @@ azione
 
 Si riportano i riferimenti normativi concernenti la qualificazione dei servizi
 SaaS e CSP `Circolari dell’Agenzia per l’Italia Digitale n. 2 del 09 aprile 2018
-e n. 3 del 09 aprile 2018 <https://cloud-pa.readthedocs.io/it/latest/>`_
+e n. 3 del 09 aprile 2018 <https://cloud.italia.it/it/latest/>`_

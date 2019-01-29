@@ -30,7 +30,7 @@ sulla base di un insieme minimo di requisiti, secondo il modello riportato di
 seguito. Inoltre, servizi e infrastrutture saranno consultabili e confrontabili
 mediante una piattaforma dedicata, il *Cloud Marketplace*, una volta conseguita
 la qualificazione AgID secondo quanto descritto nelle `circolari AgID n.2 e n.3
-del 2018 <https://cloud-pa.readthedocs.io/it/latest/>`_.
+del 2018 <https://cloud.italia.it/it/latest/>`_.
 
 .. figure:: media/modello-cloud-pa.png
    :alt: Modello del Cloud della PA
@@ -136,7 +136,7 @@ l’acquisizione.
    20 novembre 2018.
 
 Per maggiori informazioni si rimanda alle `Circolari AgID 2/2018 e 3/2018
-<https://cloud-pa.readthedocs.io/it/latest/>`_.
+<https://cloud.italia.it/it/latest/>`_.
 
 La qualificazione dei Servizi cloud
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -149,7 +149,7 @@ La qualificazione dei Servizi cloud
 
    La procedura di qualificazione e tutti i requisiti previsti sono stati
    definiti dalle `Circolari AgID n. 2 e n.3 del 9 aprile 2018 
-   <https://cloud-pa.readthedocs.io/it/latest/>`_, cui si rimanda per le
+   <https://cloud.italia.it/it/latest/>`_, cui si rimanda per le
    informazioni di dettaglio.
 
 Servizi SaaS

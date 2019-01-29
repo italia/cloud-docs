@@ -79,28 +79,28 @@ ottenere la qualifica di AgID?**
 
 I requisiti organizzativi sono pubblicati all’interno dell’`Allegato A della
 Circolare AgID n. 2 del 9 aprile
-<https://cloud-pa.readthedocs.io/it/latest/circolari/CSP/allegato_docs/requisiti-organizzativi.html>`_.
+<https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/CSP/allegato_docs/requisiti-organizzativi.html>`_.
 
 **Quali requisiti specifici di sicurezza deve avere un Cloud service provider
 per ottenere la qualifica di AgID?**
 
 I requisiti specifici di sicurezza sono pubblicati all’interno dell’`Allegato A
 della Circolare AgID n. 2 del 9 aprile
-<https://cloud-pa.readthedocs.io/it/latest/circolari/CSP/allegato_docs/requisiti-specifici.html#sicurezza-privacy-e-protezione-dei-dati>`_.
+<https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/CSP/allegato_docs/requisiti-specifici.html#sicurezza-privacy-e-protezione-dei-dati>`_.
 
 **Quali requisiti specifici di performance deve avere un Cloud service provider
 per ottenere la qualifica di AgID?**
 
 I requisiti specifici di performance sono pubblicati all’interno dell’`Allegato
 A della Circolare AgID n. 2 del 9 aprile
-<https://cloud-pa.readthedocs.io/it/latest/circolari/CSP/allegato_docs/requisiti-specifici.html#performance>`_.
+<https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/CSP/allegato_docs/requisiti-specifici.html#performance>`_.
 
 **Quali requisiti di interoperabilità e portabilità deve avere un Cloud service
 provider per ottenere la qualifica di AgID?**
 
 I requisiti di interoperabilità e portabilità sono pubblicati all’interno
 dell’`Allegato A della Circolare AgID n. 2 del 9 aprile
-<https://cloud-pa.readthedocs.io/it/latest/circolari/CSP/allegato_docs/requisiti-specifici.html#interoperabilita-e-portabilita>`_.
+<https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/CSP/allegato_docs/requisiti-specifici.html#interoperabilita-e-portabilita>`_.
 
 **Cosa bisogna fare per chiedere la qualificazione come Cloud service provider
 (CSP)?**
@@ -181,28 +181,28 @@ qualificazione di AgID?**
 
 I requisiti organizzativi sono pubblicati all’interno dell’`Allegato A della
 Circolare AgID n. 3 del 9 aprile
-<https://cloud-pa.readthedocs.io/it/latest/circolari/SaaS/allegato_docs/requisiti-organizzativi.html>`_.
+<https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/SaaS/allegato_docs/requisiti-organizzativi.html>`_.
 
 **Quali requisiti di sicurezza deve possedere un fornitore SaaS per ottenere la
 qualificazione di AgID rispetto alle soluzioni SaaS offerte?**
 
 I requisiti di sicurezza sono pubblicati all’interno dell’`Allegato A della
 Circolare AgID n. 3 del 9 aprile
-<https://cloud-pa.readthedocs.io/it/latest/circolari/SaaS/allegato_docs/sicurezza.html>`_.
+<https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/SaaS/allegato_docs/sicurezza.html>`_.
 
 **Quali sono i requisiti di performance e scalabilità che un fornitore SaaS deve
 avere per ottenere la qualificazione?**
 
 I requisiti di performance e scalabilità sono pubblicati all’interno
 dell’`Allegato A della Circolare AgID n. 3 del 9 aprile
-<https://cloud-pa.readthedocs.io/it/latest/circolari/SaaS/allegato_docs/performance-scalabilita.html>`_.
+<https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/SaaS/allegato_docs/performance-scalabilita.html>`_.
 
 **Quali sono i requisiti di interoperabilità e portabilità che un fornitore SaaS
 deve avere per ottenere la qualificazione?**
 
 I requisiti di interoperabilità e portabilità sono pubblicati all’interno
 dell’`Allegato A della Circolare AgID n. 3 del 9 aprile
-<https://cloud-pa.readthedocs.io/it/latest/circolari/SaaS/allegato_docs/interoperabilita-portabilita.html>`_.
+<https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/SaaS/allegato_docs/interoperabilita-portabilita.html>`_.
 
 **Una pubblica amministrazione può usare prodotti SaaS  quali: Google Docs, Trello, Github, ecc. ?**
 Un'amministrazione può accedere liberamente ad un qualunque servizio SaaS (fermo restando la compliance con la normativa vigente, come per esempio il GDPR).
