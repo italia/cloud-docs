@@ -99,9 +99,8 @@ qualità e prezzo offerte dai fornitori CSP o SPC, nel rispetto della normativa
 vigente in ambito di acquisizione di beni e servizi.
 
 Nel caso dei PSN, vista la rilevanza e i costi correlati di tali infrastrutture
-sarà cura del Governo e delle Regioni valutare e disporre quali servizi
-considerati asset strategici nazionali dovranno essere erogati per mezzo degli
-stessi.
+sarà cura del Governo valutare e disporre quali servizi considerati asset strategici 
+nazionali dovranno essere erogati per mezzo degli stessi.
 
 SaaS e interoperabilità
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -315,7 +314,7 @@ servizi cloud, che intende conseguire la qualificazione CSP o SaaS, trasmette
 tutte le informazioni, le dichiarazioni e la documentazione prevista.
 
 È in corso di sviluppo la versione alfa della piattaforma che, una volta
-rilasciata, sarà accessibile tramite cloud.italia.it/marketplace. (è una scelta che dia pagina non ancora attiva?)
+rilasciata, sarà accessibile tramite cloud.italia.it/marketplace.
 
 .. rubric:: Note
 
