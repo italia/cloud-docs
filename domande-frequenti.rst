@@ -207,3 +207,8 @@ dell’`Allegato A della Circolare AgID n. 3 del 9 aprile
 **Una pubblica amministrazione può usare prodotti SaaS  quali: Google Docs, Trello, Github, ecc. ?**
 Un'amministrazione può accedere liberamente ad un qualunque servizio SaaS (fermo restando la compliance con la normativa vigente, come per esempio il GDPR).
 A partire dal 20 Novembre 2018 le amministrazioni potranno acquisire esclusivamente servizi Cloud SaaS qualificati secondo quanto disposto  da AgID nella circolare `N. 3 del 9 aprile 2018 <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/SaaS/circolare_qualificazione_SaaS_v_4.12.27.html>`_, tale procedura consentirà ai fornitori di servizi di certificare i servizi stessi per l'uso nella PA.
+
+** Abbiamo messo a punto un nuovo servizio web "ibrido", che prevede l'integrazione di due tool distinti ed interoperabili tra loro: una componente viene erogata in cloud ( a breve dovrebbe essere qualificata SaaS) , l'altra è una soluzione ASP ospitata presso il data center di una società in-house. Quando la prima componente verrà effettivamente qualificata SaaS, gli enti locali potranno acquistare il nuovo servizio? **
+
+Il frontend se è certificato da Agid come SAAS comprende il fatto di essere ospitato su CSP (è uno dei requisiti dell’essere certificato SAAS), per cui è compliant. Il backend deve essere ospitato su CSP per essere compliant. Quindi se il frontend è SAAS certificato e su marketplace e il backend ospitato su CSP, è possibile acquistare il servizio.
+
