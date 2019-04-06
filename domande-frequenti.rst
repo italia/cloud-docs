@@ -56,7 +56,7 @@ ruolo. AgID, in seguito alla ricezione della candidatura, avvia l’istruttoria
 per la qualificazione a PSN. In caso di esito positivo, il Governo elegge
 mediante specifico provvedimento e a seguito di una propria valutazione in
 merito all’interesse nazionale per la costituzione del Polo Strategico
-Nazionale.
+Nazionale. I risultati saranno pubblicati da AGID entro fine Aprile 2019.
 
 **Quale sarà il compito dei Poli Strategici Nazionali?**
 
