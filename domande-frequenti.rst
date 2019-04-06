@@ -206,4 +206,4 @@ dell’`Allegato A della Circolare AgID n. 3 del 9 aprile
 
 **Una pubblica amministrazione può usare prodotti SaaS  quali: Google Docs, Trello, Github, ecc. ?**
 Un'amministrazione può accedere liberamente ad un qualunque servizio SaaS (fermo restando la compliance con la normativa vigente, come per esempio il GDPR).
-A partire dal 20 Novembre 2018 le amministrazioni potranno acquisire esclusivamente servizi Cloud SaaS qualificati secondo quanto disposto  da AgID nella circolare `N. 3 del 9 aprile 2018 <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/SaaS/circolare_qualificazione_SaaS_v_4.12.27.html>`_, tale procedura consentirà ai fornitori di servizi di certificare i servizi stessi per l'uso nella PA.
+A partire dal 01 Aprile 2019 le amministrazioni potranno acquisire esclusivamente servizi Cloud SaaS qualificati secondo quanto disposto  da AgID nella circolare `N. 3 del 9 aprile 2018 <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/SaaS/circolare_qualificazione_SaaS_v_4.12.27.html>`_, tale procedura consentirà ai fornitori di servizi di certificare i servizi stessi per l'uso nella PA.
