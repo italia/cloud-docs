@@ -33,8 +33,8 @@ investimenti sui data center?**
 No, non potranno effettuare nuove spese e investimenti in hardware e
 infrastrutture, ma potranno effettuare spese/investimenti per realizzare
 progetti di consolidamento e virtualizzazione per migrare i propri servizi verso
-le infrastrutture del Cloud delle PA esistenti ad oggi (CSP Qualificati, SPC
-Cloud Lotto 1).
+le infrastrutture del Cloud delle PA esistenti ad oggi (`CSP Qualificati <https://cloud.italia.it/marketplace/supplier/market/index_csp.html>`_, 
+`SAAS Qualificati <https://cloud.italia.it/marketplace/supplier/market/index_SaaS.html>`_, `PAAS Qualificati <https://cloud.italia.it/marketplace/supplier/market/index_PaaS.html>`_, `SPC Cloud Lotto 1 <https://www.cloudspc.it/ContrattoQuadro.html>`_).
 
 **Le pubbliche amministrazioni come possono partecipare al censimento?**
 
