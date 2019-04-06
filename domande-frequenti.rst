@@ -38,9 +38,8 @@ Cloud Lotto 1).
 
 **Le pubbliche amministrazioni come possono partecipare al censimento?**
 
-Per poter partecipare al censimento le amministrazioni devono seguire le
-istruzioni presenti sul sito `Censimento ICT
-<https://censimentoict.italia.it/it/latest/>`_.
+Il  `Censimento ICT
+<https://censimentoict.italia.it/it/latest/>`_ è chiuso.
 
 **Che succede se un’amministrazione non partecipa al questionario o lo compila
 solo parzialmente?**
