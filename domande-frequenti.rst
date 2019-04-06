@@ -154,9 +154,10 @@ AgID.
 **Quali sono i requisiti di ammissibilità per poter chiedere la qualificazione
 come fornitore di soluzioni SaaS alla PA?**
 
-I servizi SaaS proposti dal fornitore devono essere compatibili con almeno una
-delle infrastrutture tra Cloud SPC Lotto 1 e/o Cloud service provider
-qualificato da AgID.
+I servizi SaaS proposti dal fornitore devono essere ospitatii su una 
+delle infrastrutture tra `Cloud service provider
+https://cloud.italia.it/marketplace/supplier/market/index_csp.html>`_ qualificato da AgID e/o `Cloud SPC Lotto 1
+<https://www.cloudspc.it/>`_.
 
 **Cosa bisogna fare per chiedere la qualificazione come fornitore di soluzioni
 SaaS alla PA?**
