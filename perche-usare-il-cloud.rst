@@ -13,7 +13,8 @@ Riduzione dei costi
 Le applicazioni che utilizzano risorse hardware locali (*on-premise*) richiedono
 un investimento iniziale significativo, anche se il software utilizzato è
 gratuito o open source. Data center, reti, server, storage e sistemi operativi
-sono necessari per ospitare anche il software gestionale più banale. Tutte
+(oltre che personale qualificato e/o impegnato nell'attività) sono necessari 
+per ospitare anche il software gestionale più banale. Tutte
 queste componenti di supporto richiedono non solo investimenti, tempo e
 personale dedicato per ottenere delle infrastrutture di qualità, ma anche
 significativi aggiornamenti periodici.
