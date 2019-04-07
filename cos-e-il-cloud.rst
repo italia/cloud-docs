@@ -27,6 +27,9 @@ soluzioni hardware, che consentono di :
   alle licenze di utilizzo;
 - ridurre i costi complessivi collegati alla location dei Data center 
   (affitti, consumi elettrici, personale non ICT).
+- permette risposte veloci in caso di necessità di maggiore spazio di storage e
+  maggiore capacità di computazione
+- migliorare la ridondanza dei sistemi e dei dati
 
 Inoltre, i servizi cloud sono tipicamente suddivisi in tre tipologie:
 
