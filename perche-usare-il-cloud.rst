@@ -134,3 +134,13 @@ continuo di vigilanza e controllo che fin dalla prima fase di progettazione dei
 servizi, agisca trasversalmente su tutte le aree di interesse, e che sia
 costantemente aggiornato rispetto allo stato dell’arte delle principali misure
 di sicurezza.
+
+Risparmio di tempo del personale
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Utilizzare il cloud riduce il tempo in cui il personale pubblico è impegnato
+in attività IT, riduce il tempo di training e quindi il personale può essere
+utilizzato per mansioni meno manutentive e più evolutive. Questo aspetto è
+innovativo in una PA dove a volte si credere che "tanto il tempo sia pagato"
+dallo stipendio. Il tempo è effettivamente pagato, ma il cloud permette di
+utilizzarlo in maniera più effettiva, efficace ed efficiente.
