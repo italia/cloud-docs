@@ -134,3 +134,12 @@ continuo di vigilanza e controllo che fin dalla prima fase di progettazione dei
 servizi, agisca trasversalmente su tutte le aree di interesse, e che sia
 costantemente aggiornato rispetto allo stato dell’arte delle principali misure
 di sicurezza.
+
+Frubilità
+~~~~~~~~~~~~~~~~~~~
+
+I servizi cloud sono fruibili mediante un semplice browser o app, da tablet, notebook,
+smartphone, dove si vuole e a qualsiasi ora del giorno e della notte. I servizi
+"on premise" spesso richiedono vpn o accessi dedicati e complicati da gestire
+per ottenere lo stesso risultato di fruibilità.
+
