@@ -11,7 +11,7 @@ informativi, trasformando le infrastrutture fisiche in servizi virtuali fruibili
 in base al consumo di risorse.
 
 Il modello Cloud introduce dei vantaggi significativi rispetto alle tradizionali
-soluzioni hardware, che consentono di :
+soluzioni hardware, che consentono di:
 
 - effettuare in maniera continua gli aggiornamenti dell’infrastruttura e 
   delle applicazioni;
