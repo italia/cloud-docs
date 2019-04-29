@@ -10,7 +10,7 @@ Il Censimento del Patrimonio ICT della PA serve a costruire una base informativa
 comune sui principali asset IT (infrastrutture, hardware e software) utilizzati
 dalle pubbliche amministrazioni. Le informazioni raccolte sono utili per aiutare
 le amministrazioni a valorizzare il proprio patrimonio ICT e a razionalizzare la
-spesa ICT.
+spesa ICT. Il censimento si è concluso il 20 Giugno 2018.
 
 **In base al censimento, come vengono classificate le infrastrutture IT delle
 amministrazioni?**
