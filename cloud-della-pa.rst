@@ -312,8 +312,7 @@ AgID ha previsto l’utilizzo di una piattaforma dedicata con cui il fornitore d
 servizi cloud, che intende conseguire la qualificazione CSP o SaaS, trasmette
 tutte le informazioni, le dichiarazioni e la documentazione prevista.
 
-È in corso di sviluppo la versione alfa della piattaforma che, una volta
-rilasciata, sarà accessibile tramite cloud.italia.it/marketplace.
+La versione alfa della piattaforma è stata rilasciata ed è accessibile all'indirizzo `https://cloud.italia.it/marketplace`.
 
 .. rubric:: Note
 
