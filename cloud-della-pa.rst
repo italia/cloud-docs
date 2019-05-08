@@ -27,7 +27,7 @@ principi:
 
 Il Cloud della PA si compone di infrastrutture e servizi, qualificati da AgID
 sulla base di un insieme minimo di requisiti, secondo il modello riportato di
-seguito. Inoltre, servizi e infrastrutture saranno consultabili e confrontabili
+seguito. Inoltre, servizi e infrastrutture sono consultabili e confrontabili
 mediante una piattaforma dedicata, il *Cloud Marketplace*, una volta conseguita
 la qualificazione AgID secondo quanto descritto nelle `circolari AgID n.2 e n.3
 del 2018 <https://cloud.italia.it/it/latest/>`_.
