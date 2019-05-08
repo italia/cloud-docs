@@ -56,7 +56,7 @@ Le infrastrutture qualificate si suddividono in tre categorie:
 - SPC Cloud: i servizi cloud infrastrutturali erogati nell’ambito del 
   contratto quadro Consip - Cloud SPC Lotto 1.
 
-I servizi SaaS del *Cloud della PA* dovranno necessariamente essere erogati
+I servizi SaaS del *Cloud della PA* devono necessariamente essere erogati
 mediante una o più infrastrutture qualificate.
 
 I criteri di scelta dei servizi cloud
@@ -118,8 +118,8 @@ le API della PA si adeguino alle Linee Guida di Interoperabilità.
 Il Marketplace delle infrastrutture e dei servizi cloud
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Servizi e infrastrutture qualificate del Cloud della PA saranno esposti e
-consultabili mediante il *Marketplace Cloud*, una piattaforma che consentirà di
+Servizi e infrastrutture qualificate del Cloud della PA sono esposti e
+consultabili mediante il *Marketplace Cloud*, una piattaforma che in futuro consentirà di
 visualizzare la scheda di ogni servizio mettendo in evidenza le caratteristiche,
 il costo e i livelli di servizio dichiarati dal fornitore. Le PA potranno
 confrontare servizi analoghi e decidere, in base alle loro esigenze, le
@@ -131,9 +131,8 @@ l’acquisizione.
 
 .. important:: 
 
-   Le amministrazioni potranno acquisire esclusivamente servizi IaaS, PaaS
-   e SaaS qualificati e pubblicati sul Marketplace Cloud a decorrere dal
-   1 gennaio 2019.
+   A decorrere dal 1 gennaio 2019 le amministrazioni possono acquisire esclusivamente servizi IaaS, PaaS
+   e SaaS qualificati e pubblicati sul Marketplace Cloud.
 
 Per maggiori informazioni si rimanda alle `Circolari AgID 2/2018 e 3/2018, Determina Agid 358/2018
 <https://cloud.italia.it/it/latest/>`_.
