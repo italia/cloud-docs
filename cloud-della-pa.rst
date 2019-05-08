@@ -84,7 +84,7 @@ Marketplace.
 Diventa, quindi, cruciale individuare quale delle tre tipologie di
 infrastrutture qualificate scegliere, tale scelta è indirizzata da 2 fattori:
 
-- la finalità del servizio all’utente e la tipologia di dati trattati 
+- la finalità del servizio all’utente e la tipologia di dati trattati;
 - le caratteristiche commerciali del servizio cloud.
 
 Non si tratta di una scelta tecnologica, in quanto le infrastrutture qualificate
@@ -185,7 +185,7 @@ rispetto di alcuni requisiti, tra cui:
   particolare la tracciabilità delle versioni disponibili, la  
   tracciabilità delle richieste ricevute ed evase, la documentazione degli 
   endpoint SOAP e/o REST disponibili e delle rispettive modalità di 
-  invocazione.
+  invocazione;
 - ridurre il rischio di dipendenza esclusiva dal fornitore (**lock in**), 
   garantendo in tal modo alle PA l’esportabilità dei propri dati in un 
   formato interoperabile verso un’altra piattaforma.
