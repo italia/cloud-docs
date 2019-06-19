@@ -279,5 +279,5 @@ texinfo_documents = [
    'Miscellaneous'),
 ]
 
-numfig = True
+# numfig = True
 
