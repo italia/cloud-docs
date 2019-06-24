@@ -131,10 +131,10 @@ l’acquisizione.
 
 .. important:: 
 
-   Le amministrazioni potranno acquisire esclusivamente servizi IaaS, PaaS
-   e SaaS qualificati e pubblicati sul Marketplace Cloud a decorrere dal
-   20 novembre 2018.
-
+   A decorrere dal 1 aprile 2019, le Amministrazioni Pubbliche possono acquisire
+   esclusivamente servizi IaaS, PaaS e SaaS qualificati da AgID e pubblicati nel
+   Catalogo dei servizi Cloud per la PA qualificati.
+   
 Per maggiori informazioni si rimanda alle `Circolari AgID 2/2018 e 3/2018
 <https://cloud.italia.it/it/latest/>`_.
 
