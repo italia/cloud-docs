@@ -118,12 +118,12 @@ le API della PA si adeguino alle Linee Guida di Interoperabilità.
 Il Marketplace delle infrastrutture e dei servizi cloud
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Servizi e infrastrutture qualificate del Cloud della PA saranno esposti e
-consultabili mediante il *Marketplace Cloud*, una piattaforma che consentirà di
+Servizi e infrastrutture qualificate del Cloud della PA sono esposti e
+consultabili mediante il *Marketplace Cloud*, una piattaforma che consente di
 visualizzare la scheda di ogni servizio mettendo in evidenza le caratteristiche,
-il costo e i livelli di servizio dichiarati dal fornitore. Le PA potranno
+il costo e i livelli di servizio dichiarati dal fornitore. Le PA possono
 confrontare servizi analoghi e decidere, in base alle loro esigenze, le
-soluzioni più adatte. Il Marketplace indicherà anche le modalità di acquisizione
+soluzioni più adatte. Il Marketplace indica anche le modalità di acquisizione
 con cui uno specifico servizio potrà essere acquisito da una amministrazione
 rimandando allo strumento di procurement disponibile (p.e. portale
 `acquistinretepa.it <https://www.acquistinretepa.it/>`_ ) per procedere con
@@ -313,8 +313,7 @@ AgID ha previsto l’utilizzo di una piattaforma dedicata con cui il fornitore d
 servizi cloud, che intende conseguire la qualificazione CSP o SaaS, trasmette
 tutte le informazioni, le dichiarazioni e la documentazione prevista.
 
-È in corso di sviluppo la versione alfa della piattaforma che, una volta
-rilasciata, sarà accessibile tramite cloud.italia.it/marketplace.
+La piattaforma è accessibile all'indirizzo https://cloud.italia.it/marketplace/supplier/.
 
 .. rubric:: Note
 
