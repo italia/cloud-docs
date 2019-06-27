@@ -11,7 +11,7 @@ Il Cloud della Pubblica Amministrazione
 
   La strategia, in linea con gli interventi dell’Unione europea, fornisce un
   quadro di riferimento per le politiche di digitalizzazione del Paese, mentre il
-  `Piano Triennale per l’Informatica 2017 - 2019 e 2019 - 2021
+  `Piano Triennale per l’Informatica 2017 - 2019 e il Piano Triennale per l'Informatica 2019 - 2021
   <https://pianotriennale-ict.italia.it/>`_ hanno tradotto le indicazioni strategiche in
   azioni operative e conseguibili nel biennio individuato.
 
