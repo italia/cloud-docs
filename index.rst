@@ -15,7 +15,7 @@ Il Cloud della Pubblica Amministrazione
   <https://pianotriennale-ict.italia.it/>`_ hanno tradotto le indicazioni strategiche in
   azioni operative e conseguibili nei periodi di riferimento.
 
-  In questa versione del documento viene descritta la strategia per l'adozione del cloud computing
+  In questo documento viene descritta la strategia per l'adozione del cloud computing
   nella Pubblica Amministrazione secondo quanto previsto dal `Piano Triennale
   per l’Informatica 2019 - 2021 <https://pianotriennale-ict.italia.it/>`_
 
