@@ -60,9 +60,9 @@ templates_path = ['_templates']
 # The suffix of source filenames.
 # comment out for https://docs-italia-staging.teamdigitale.it
 # lucio
-#source_parsers = {
-#    '.md': CommonMarkParser,
-#}
+source_parsers = {
+    '.md': CommonMarkParser,
+}
 
 source_suffix = ['.rst', '.md']
 
