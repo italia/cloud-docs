@@ -273,8 +273,7 @@ qualificazione richiede che vengano adottate dal fornitore tutte le buone
 pratiche previste dai più importanti e diffusi standard del settore (es. ISO/IEC
 27002).
 
-La qualificazione dei CSP è in fase di avvio. L’elenco dei CSP qualificati sarà
-disponibile sul Marketplace Cloud in corso di attivazione.
+L’elenco dei CSP qualificati è disponibile sul Marketplace Cloud.
 
 Cloud SPC Lotto 1 - Community Cloud
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
