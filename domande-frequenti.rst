@@ -105,7 +105,7 @@ dell’`Allegato A della Circolare AgID n. 2 del 9 aprile
 **Cosa bisogna fare per chiedere la qualificazione come Cloud service provider
 (CSP)?**
 
-Per chiedere la qualificazione seguire i passaggi indicati nella piattaforma dedicata alle `qualificazioni cloud
+Per chiedere la qualificazione occorre seguire i passaggi indicati nella piattaforma dedicata alle `qualificazioni cloud
 <https://cloud.italia.it/marketplace/supplier/>`_.
 
 **Per quanto tempo è valida la qualificazione di fornitore di Public Cloud della
