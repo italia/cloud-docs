@@ -1,7 +1,7 @@
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = 'Il Cloud della PA'
 settings_copyright_copyleft = 'Creative Commons Zero v1.0 Universal'
-settings_editor_name = 'Agenzia per l\'Italia Digitale'
+settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'Versione finale'
 settings_doc_release = '20180409'
 settings_basename = 'cloud-pa'
