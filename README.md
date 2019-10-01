@@ -6,4 +6,4 @@ Questo repository contiene la documentazione relativa a [Il Cloud della PA](http
 Link
 ----
 
-Link alla [documentazione compilata su Docs Italia]().
+Link alla [documentazione compilata su Docs Italia](https://docs.italia.it/italia/piano-triennale-ict/cloud-docs).
