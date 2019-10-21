@@ -11,13 +11,12 @@ Il Cloud della Pubblica Amministrazione
 
   La strategia, in linea con gli interventi dell’Unione europea, fornisce un
   quadro di riferimento per le politiche di digitalizzazione del Paese, mentre il
-  `Piano Triennale per l’Informatica 2017 - 2019
-  <https://pianotriennale-ict.italia.it/>`_ traduce le indicazioni strategiche in
-  azioni operative e conseguibili nel biennio individuato.
+  `Piano Triennale per l’Informatica <https://pianotriennale-ict.italia.it/>`_ ha tradotto le indicazioni strategiche in
+  azioni operative conseguibili nel periodo di riferimento.
 
   In questo documento viene descritta la strategia per l'adozione del cloud computing
   nella Pubblica Amministrazione secondo quanto previsto dal `Piano Triennale
-  per l’Informatica 2017 - 2019 <https://pianotriennale-ict.italia.it/>`_
+  per l’Informatica 2019 - 2021 <https://pianotriennale-ict.italia.it/>`_
 
 
 .. toctree::

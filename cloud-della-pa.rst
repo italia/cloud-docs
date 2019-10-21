@@ -84,7 +84,7 @@ Marketplace.
 Diventa, quindi, cruciale individuare quale delle tre tipologie di
 infrastrutture qualificate scegliere, tale scelta è indirizzata da 2 fattori:
 
-- la finalità del servizio all’utente e la tipologia di dati trattati 
+- la finalità del servizio all’utente e la tipologia di dati trattati;
 - le caratteristiche commerciali del servizio cloud.
 
 Non si tratta di una scelta tecnologica, in quanto le infrastrutture qualificate
@@ -119,11 +119,11 @@ Il Marketplace delle infrastrutture e dei servizi cloud
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Servizi e infrastrutture qualificate del Cloud della PA sono esposti e
-consultabili mediante il *Marketplace Cloud*, una piattaforma che in futuro consentirà di
+consultabili mediante il *Marketplace Cloud*, una piattaforma che consentirà di
 visualizzare la scheda di ogni servizio mettendo in evidenza le caratteristiche,
-il costo e i livelli di servizio dichiarati dal fornitore. Le PA potranno
+il costo e i livelli di servizio dichiarati dal fornitore. Le PA possono
 confrontare servizi analoghi e decidere, in base alle loro esigenze, le
-soluzioni più adatte. Il Marketplace indicherà anche le modalità di acquisizione
+soluzioni più adatte. Il Marketplace indica anche le modalità di acquisizione
 con cui uno specifico servizio potrà essere acquisito da una amministrazione
 rimandando allo strumento di procurement disponibile (p.e. portale
 `acquistinretepa.it <https://www.acquistinretepa.it/>`_ ) per procedere con
@@ -131,11 +131,12 @@ l’acquisizione.
 
 .. important:: 
 
-   A decorrere dal 1 gennaio 2019 le amministrazioni possono acquisire esclusivamente servizi IaaS, PaaS
-   e SaaS qualificati e pubblicati sul Marketplace Cloud.
-
-Per maggiori informazioni si rimanda alle `Circolari AgID 2/2018 e 3/2018, Determina Agid 358/2018
-<https://cloud.italia.it/it/latest/>`_.
+   A decorrere dal 1 aprile 2019, le Amministrazioni Pubbliche possono acquisire
+   esclusivamente servizi IaaS, PaaS e SaaS qualificati da AgID e pubblicati nel
+   Catalogo dei servizi Cloud per la PA qualificati.
+   
+Per maggiori informazioni si rimanda alle `Circolari AgID 2/2018 e 3/2018
+<https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/>`_.
 
 La qualificazione dei Servizi cloud
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -184,7 +185,7 @@ rispetto di alcuni requisiti, tra cui:
   particolare la tracciabilità delle versioni disponibili, la  
   tracciabilità delle richieste ricevute ed evase, la documentazione degli 
   endpoint SOAP e/o REST disponibili e delle rispettive modalità di 
-  invocazione.
+  invocazione;
 - ridurre il rischio di dipendenza esclusiva dal fornitore (**lock in**), 
   garantendo in tal modo alle PA l’esportabilità dei propri dati in un 
   formato interoperabile verso un’altra piattaforma.
@@ -272,8 +273,7 @@ qualificazione richiede che vengano adottate dal fornitore tutte le buone
 pratiche previste dai più importanti e diffusi standard del settore (es. ISO/IEC
 27002).
 
-La qualificazione dei CSP è stata avviata. L’elenco dei CSP qualificati è
-disponibile sulla versione alfa del Marketplace Cloud.
+L’elenco dei CSP qualificati è disponibile sul Marketplace Cloud.
 
 Cloud SPC Lotto 1 - Community Cloud
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -312,7 +312,8 @@ AgID ha previsto l’utilizzo di una piattaforma dedicata con cui il fornitore d
 servizi cloud, che intende conseguire la qualificazione CSP o SaaS, trasmette
 tutte le informazioni, le dichiarazioni e la documentazione prevista.
 
-La versione alfa della piattaforma è stata rilasciata ed è accessibile all'indirizzo `https://cloud.italia.it/marketplace`.
+=======
+La piattaforma è accessibile all'indirizzo https://cloud.italia.it/marketplace/.
 
 .. rubric:: Note
 

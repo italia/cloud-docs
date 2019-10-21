@@ -10,7 +10,7 @@ Il Censimento del Patrimonio ICT della PA serve a costruire una base informativa
 comune sui principali asset IT (infrastrutture, hardware e software) utilizzati
 dalle pubbliche amministrazioni. Le informazioni raccolte sono utili per aiutare
 le amministrazioni a valorizzare il proprio patrimonio ICT e a razionalizzare la
-spesa ICT.
+spesa ICT. Il censimento si è concluso il 20 Giugno 2018.
 
 **In base al censimento, come vengono classificate le infrastrutture IT delle
 amministrazioni?**
@@ -33,14 +33,13 @@ investimenti sui data center?**
 No, non potranno effettuare nuove spese e investimenti in hardware e
 infrastrutture, ma potranno effettuare spese/investimenti per realizzare
 progetti di consolidamento e virtualizzazione per migrare i propri servizi verso
-le infrastrutture del Cloud delle PA esistenti ad oggi (CSP Qualificati, SPC
-Cloud Lotto 1).
+le infrastrutture del Cloud delle PA esistenti ad oggi (`CSP Qualificati <https://cloud.italia.it/marketplace/supplier/market/index_csp.html>`_, 
+`SAAS Qualificati <https://cloud.italia.it/marketplace/supplier/market/index_SaaS.html>`_, `PAAS Qualificati <https://cloud.italia.it/marketplace/supplier/market/index_PaaS.html>`_, `SPC Cloud Lotto 1 <https://www.cloudspc.it/ContrattoQuadro.html>`_).
 
 **Le pubbliche amministrazioni come possono partecipare al censimento?**
 
-Per poter partecipare al censimento le amministrazioni devono seguire le
-istruzioni presenti sul sito `Censimento ICT
-<https://censimentoict.italia.it/it/latest/>`_.
+Il  `Censimento ICT
+<https://censimentoict.italia.it/it/latest/>`_ è chiuso.
 
 **Che succede se un’amministrazione non partecipa al questionario o lo compila
 solo parzialmente?**

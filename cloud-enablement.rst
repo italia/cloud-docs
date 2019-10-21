@@ -18,7 +18,7 @@ e servizi cloud. Nell'ottica del consolidamento e della razionalizzazione, tale
 attività riorganizza i processi IT in ambienti di cloud pubblico, privato o
 ibrido.
 
-Nella definizione del **programma di abilitazione al Cloud della PA** sono stati
+Nella definizione del **piano di abilitazione al Cloud della PA** sono stati
 individuati tre elementi principali che caratterizzano la strategia di questo
 percorso di trasformazione:
 
@@ -54,8 +54,8 @@ mercato nuove soluzioni e servizi ICT per la realizzazione di un nuovo progetto
 o nuovi servizi destinati a cittadini, imprese o utenti interni alla PA.
 
 Per sfruttare in pieno i vantaggi del cloud, è opportuno che le amministrazioni
-valutino in prima istanza la presenza di servizi SaaS nel Marketplace Cloud che
-rispondono alle proprie esigenze e, solo in seconda istanza, prendere in
+valutino in prima istanza la presenza di servizi SaaS nel `Marketplace Cloud <https://cloud.italia.it/marketplace/supplier/market/index.html>`_
+che rispondono alle proprie esigenze e, solo in seconda istanza, prendere in
 considerazione soluzioni PaaS e infine IaaS.
 
 Sarà fondamentale per le stesse amministrazioni ribaltare la logica del servizio
