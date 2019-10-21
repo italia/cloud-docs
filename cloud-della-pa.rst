@@ -131,7 +131,7 @@ l’acquisizione.
 
 .. important:: 
 
-   A decorrere dal 1 aprile 2019, le Amministrazioni Pubbliche possono acquisire
+   A decorrere dal 1º aprile 2019, le Amministrazioni Pubbliche possono acquisire
    esclusivamente servizi IaaS, PaaS e SaaS qualificati da AgID e pubblicati nel
    Catalogo dei servizi Cloud per la PA qualificati.
    
@@ -148,7 +148,7 @@ La qualificazione dei Servizi cloud
    di autocertificazione.
 
    La procedura di qualificazione e tutti i requisiti previsti sono stati
-   definiti dalle `Circolari AgID n. 2 e n.3 del 9 aprile 2018 
+   definiti dalle `Circolari AgID n. 2 e n. 3 del 9 aprile 2018 
    <https://cloud.italia.it/it/latest/>`_, cui si rimanda per le
    informazioni di dettaglio.
 
