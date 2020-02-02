@@ -33,8 +33,7 @@ investimenti sui data center?**
 No, non potranno effettuare nuove spese e investimenti in hardware e
 infrastrutture, ma potranno effettuare spese/investimenti per realizzare
 progetti di consolidamento e virtualizzazione per migrare i propri servizi verso
-le infrastrutture del Cloud delle PA esistenti ad oggi (`CSP Qualificati <https://cloud.italia.it/marketplace/supplier/market/index_csp.html>`_, 
-`SAAS Qualificati <https://cloud.italia.it/marketplace/supplier/market/index_SaaS.html>`_, `PAAS Qualificati <https://cloud.italia.it/marketplace/supplier/market/index_PaaS.html>`_, `SPC Cloud Lotto 1 <https://www.cloudspc.it/ContrattoQuadro.html>`_).
+le infrastrutture del Cloud delle PA esistenti ad oggi (`Catalogo dei servizi Cloud per la PA qualificati <https://cloud.italia.it/marketplace/>`_).
 
 **Le pubbliche amministrazioni come possono partecipare al censimento?**
 
@@ -105,7 +104,7 @@ dell’`Allegato A della Circolare AgID n. 2 del 9 aprile
 (CSP)?**
 
 Per chiedere la qualificazione occorre seguire i passaggi indicati nella piattaforma dedicata alle `qualificazioni cloud
-<https://cloud.italia.it/marketplace/supplier/>`_.
+<https://cloud.italia.it/marketplace/info>`_.
 
 **Per quanto tempo è valida la qualificazione di fornitore di Public Cloud della
 PA?**
