@@ -160,7 +160,7 @@ qualificato da AgID.
 SaaS alla PA?**
 
 Per chiedere la qualificazione seguire i passaggi indicati nella `piattaforma dedicata alla
-qualificazione nell'apposita sezione su cloud.italia.it <https://cloud.italia.it/marketplace/`_.
+qualificazione nell'apposita sezione su cloud.italia.it <https://cloud.italia.it/marketplace/>`_.
 
 **In quali casi AgID può revocare la qualificazione al fornitore SaaS?**
 
