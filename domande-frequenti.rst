@@ -162,6 +162,14 @@ SaaS alla PA?**
 Per chiedere la qualificazione seguire i passaggi indicati nella `piattaforma dedicata alla
 qualificazione nell'apposita sezione su cloud.italia.it <https://cloud.italia.it/marketplace/>`_.
 
+**Quando un servizio è SAAS?"**
+
+Per questa risposta va seguita la definizione di SAAS data dal NIST: 
+`The NIST Definition of Cloud Computing
+<https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf>`_
+
+Software as a Service (SaaS). The capability provided to the consumer is to use the provider’s applications running on a cloud infrastructure. The applications are accessible from various client devices through either a thin client interface, such as a web browser (e.g., web-based email), or a program interface. The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited userspecific application configuration settings.
+
 **In quali casi AgID può revocare la qualificazione al fornitore SaaS?**
 
 Nel caso di:
