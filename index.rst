@@ -1,6 +1,8 @@
 Il Cloud della Pubblica Amministrazione
 =======================================
 
+.. include:: /banner.rst
+
 .. highlights::
 
   La razionalizzazione del patrimonio ICT, il consolidamento dei data center e
