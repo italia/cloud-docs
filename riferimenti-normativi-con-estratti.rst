@@ -1,6 +1,8 @@
 Riferimenti normativi con estratti
 -----------------------------------
 
+.. include:: /banner.rst
+
 In questo paragrafo sono riportati i riferimenti normativi concernenti la spesa
 ICT e le qualificazioni cloud.
 
