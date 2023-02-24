@@ -1,6 +1,8 @@
 Il Contesto di riferimento 
 --------------------------
 
+.. include:: /banner.rst
+
 La razionalizzazione del patrimonio ICT, il consolidamento dei data center e
 l’adozione progressiva del paradigma del “cloud computing” rappresentano
 specifiche azioni trasversali della `Strategia per la Crescita digitale del

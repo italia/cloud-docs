@@ -1,6 +1,8 @@
 Riferimenti internazionali
 ---------------------------
 
+.. include:: /banner.rst
+
 Strategia Cloud nei paesi europei
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

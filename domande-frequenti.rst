@@ -1,6 +1,8 @@
 Domande frequenti
 -----------------
 
+.. include:: /banner.rst
+
 Censimento del patrimonio ICT della PA e PSN
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

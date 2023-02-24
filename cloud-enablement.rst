@@ -1,6 +1,8 @@
 Il Cloud Enablement
 -------------------
 
+.. include:: /banner.rst
+
 La situazione di elevata frammentazione e disomogeneità dei sistemi informativi
 delle PA necessita di un percorso evolutivo verso un utilizzo efficiente e
 flessibile delle tecnologie IT, al fine di garantire elevate economie gestionali

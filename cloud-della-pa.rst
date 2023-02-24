@@ -1,6 +1,8 @@
 Il Cloud della PA
 ------------------
 
+.. include:: /banner.rst
+
 Perché la PA ha deciso di definire e adottare un modello cloud *ad hoc*
 denominato “Cloud della PA”?
 
