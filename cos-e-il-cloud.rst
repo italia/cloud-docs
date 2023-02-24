@@ -1,6 +1,8 @@
 Cos’è il cloud
 ----------------
 
+.. include:: /banner.rst
+
 Il cloud computing, più semplicemente cloud, è un modello di infrastrutture
 informatiche che consente di disporre, tramite internet, di un insieme di
 risorse di calcolo (ad es. reti, server, storage, applicazioni e servizi) che
