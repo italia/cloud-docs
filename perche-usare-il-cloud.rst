@@ -1,6 +1,8 @@
 Perché usare il cloud
 ---------------------
 
+.. include:: /banner.rst
+
 .. highlights:: 
    Per una vasta gamma di servizi e sistemi, che vanno dalla sicurezza
    informatica alla produttività e all’archiviazione, le soluzioni cloud
